@@ -1,0 +1,25 @@
+body{
+    background:#7C898B
+}
+
+.sidebar{
+    height: 100%;
+    display: block;
+    background-color: #93A3B1;
+    width: 10%;
+    padding-left: 5px;
+}
+
+.sidebar a {
+    border-radius: 10px;
+
+}
+
+.sidebar a:hover {
+    color: green;
+}
+
+div .aboutMe{
+    border:solid;
+    
+}
